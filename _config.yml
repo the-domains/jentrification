@@ -1,0 +1,28 @@
+name: jentrification
+favicon: null
+layout_spectrum: 0.09168940642848611
+typography_spectrum: 0.23953453614376485
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.002406161278486252
+  lightness: 0.8421408971771598
+  saturation: 0.28908465965650976
+  rhythmicContrast: 0.5526997712440789
+purpose: []
