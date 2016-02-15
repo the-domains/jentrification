@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jentrification]]></title>
         <description><![CDATA[jentrification]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jentrification/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 19:36:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 21:49:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jentrification/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[cczxczxc]]></title>
+            <description><![CDATA[<article><h1>cczxczxc</h1><p>vcvcvcvc</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a14513816d37a0744d26244921687f8d92dc3719.png"></article>]]></description>
+            <link>https://thegrid.ai/jentrification/cczxczxc/index.html</link>
+            <guid isPermaLink="false">06330122-83e1-4729-b432-f394e41cebb4</guid>
+            <pubDate>Mon, 15 Feb 2016 21:48:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>improving the internet's property value. tech startup CEO at colorstock. brand strategist & educator. microVCer of 70+ women-owned biz. made in Detroit. </p>]]></description>
-            <link>undefined2437b54e-6bff-47a7-a661-c7f559ea4b17/index.html</link>
+            <link>https://thegrid.ai/jentrification/2437b54e-6bff-47a7-a661-c7f559ea4b17/index.html</link>
             <guid isPermaLink="false">2437b54e-6bff-47a7-a661-c7f559ea4b17</guid>
             <pubDate>Mon, 15 Feb 2016 19:35:56 GMT</pubDate>
         </item>
