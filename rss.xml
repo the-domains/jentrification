@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jentrification]]></title>
+        <description><![CDATA[jentrification]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 19:36:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>improving the internet's property value. tech startup CEO at colorstock. brand strategist & educator. microVCer of 70+ women-owned biz. made in Detroit. </p>]]></description>
+            <link>undefined2437b54e-6bff-47a7-a661-c7f559ea4b17/index.html</link>
+            <guid isPermaLink="false">2437b54e-6bff-47a7-a661-c7f559ea4b17</guid>
+            <pubDate>Mon, 15 Feb 2016 19:35:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
